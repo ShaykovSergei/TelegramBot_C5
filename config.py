@@ -1,4 +1,4 @@
-TOKEN = "7510012586:AAHk_9LwyDYQ1okP8gQjclANj_AAeC38LRM"
+TOKEN = "your telegram bot TOKEN"
 
 keys = {
     'рубль': 'RUB',
